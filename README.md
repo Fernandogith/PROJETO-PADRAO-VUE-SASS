@@ -4,7 +4,7 @@
 
 - Neste temos a instalação do VUE, com os exemplos que o VUE traz já limpos, basta CLONAR e usar.
 
-https://www.notion.so/Padr-es-VUE-3b5a3e04d4b14405bcdd195cceadee18
+https://www.notion.so/Padr-es-SASS-VUE-c70963b15507492693c1a407ace86fb6
 
 
 ## Project setup
