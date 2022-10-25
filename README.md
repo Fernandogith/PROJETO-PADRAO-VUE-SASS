@@ -1,4 +1,4 @@
-# PROJETO-PADRAO-SASS-VUE
+# PROJETO-PADRAO-VUE-SASS
 
 - Padrão para projetos de desenvolvimento com VUE.
 
