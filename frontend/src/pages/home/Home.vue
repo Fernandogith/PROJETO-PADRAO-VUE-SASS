@@ -25,4 +25,4 @@
 
 </script>
 
-<style src="./style.scss" lang="scss" scoped>
+<style src="./home.scss" lang="scss" scoped>
